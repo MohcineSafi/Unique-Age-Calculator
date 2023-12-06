@@ -17,7 +17,7 @@ A simple web application that calculates your unique age based on your birthdate
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MohcineSafi/Age-Calculator.git
+   https://github.com/MohcineSafi/Unique-Age-Calculator.git
 
 2. Open index.html in your preferred web browser.
 3. Enter your birthdate and click the "Calculate Unique Age" button.
